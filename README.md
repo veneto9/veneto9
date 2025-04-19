@@ -10,7 +10,7 @@
 
 - 🌍 Saúde pública e território  
 - 📊 Análise de dados com R  
-- 🧑‍🏫 Educação e divulgação científica  
+- 👨🏽‍🏫 Educação e divulgação científica  
 
 ---
 
