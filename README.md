@@ -1,17 +1,22 @@
-- 👋 Hello, welcome.
- - I'm @veneto9
- - My name is Amaro Neto
- - I am interested in improving my knowledge in R language for application in the Public Health Surveillance Area.
- - I'm a Sanitarist, with Epidemiological Surveillance, training in Geography.  Graduation in Pharmacy in progress.
-  
- - Studying for a doctorate in Public Health at UFRJ.
-  
- - 🔍 I try to collaborate in projects and analyzes of communicable disease banks, highlighting neglected health problems.
+## 👋 Olá, eu sou o Amaro Neto (@veneto9)
 
- - How to reach me.
-  
- - 🐥 @amaroveneto on Twitter
-   - 📸 @amarovneto on Instagram
-   - 📫 E-mail: amaroneto@ufrj.br
+🎓 Doutorando em Saúde Coletiva - UFRJ  
+🧭 Sanitarista e geógrafo, com foco em vigilância epidemiológica  
+🧪 Interesse em R, dados públicos e doenças negligenciadas  
 
- - 🌐 VR - Rio de Janeiro - Brazil.
+---
+
+### 💼 Áreas de atuação
+
+- 🌍 Saúde pública e território  
+- 📊 Análise de dados com R  
+- 🧑‍🏫 Educação e divulgação científica  
+
+---
+
+### 🌐 Contato
+
+🐦 [@amaroveneto](https://twitter.com/amaroveneto)  
+📸 [@amarovneto](https://instagram.com/amarovneto)  
+📫 amaroneto@ufrj.br  
+📍 Rio de Janeiro, Brasil
